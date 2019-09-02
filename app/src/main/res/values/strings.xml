@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RestaurantLoyaltyApp</string>
+    <string name="title_home">Home</string>
+    <string name="title_info">Info</string>
+
+    <string name="dialog_message">Thank you for signing up to the loyalty program!</string>
+    <string name="dialog_title">Success Dialog</string>
+</resources>
